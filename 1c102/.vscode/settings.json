@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "ls1x_gpio.h": "c",
+        "ls1c102_adc.h": "c",
+        "oled_font.h": "c",
+        "ls1x.h": "c",
+        "config.h": "c",
+        "ad.h": "c",
+        "ls1x_latimer.h": "c",
+        "ds18b20.h": "c",
+        "type_traits": "c",
+        "ls1x_printf.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
